@@ -1,0 +1,133 @@
+* {
+    margin: 15px auto;
+    text-align: justify;
+    max-width: 980px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+header {
+    background-color: #18430e;
+    color: #d9eddd;
+    padding: 15px;
+}
+
+nav {
+    color: rgb(12, 42, 23);
+    margin: 10px;
+    text-align: center;
+    height: 15px;
+}
+
+main {
+    height: 220px;
+    padding: 10px;
+}
+
+body {
+    height: 100px;
+    background-color: #F7F7F7;
+    margin: 15px;
+    background-color: #c9eabe;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+
+h2 {
+    text-align: left;
+    color: rgb(213, 237, 222);
+    background-color: #073207;
+    margin-top: 15px;
+}
+
+dl {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    line-height: 25px;
+
+}
+
+p {
+    text-align: justify;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+ul {
+    width: 0 auto;
+    margin: 0 auto;
+    line-height: 20px;
+}
+
+a {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: rgb(8, 30, 16);
+}
+
+img {
+    margin: 10px;
+}
+
+footer {
+    color: #666666;
+    margin: 10px;
+    margin-bottom: 20px;
+    font-style: italic;
+    text-align: center;
+}
+
+
+/* Id starts with " # " */
+#Contact {
+    padding: 10px;
+    text-align: center;
+}
+
+/*Class stars with "."*/
+
+.Sub {
+    background-color: #18430e;
+    font-style: italic;
+    color: #d9eddd;
+    font-size: medium;
+
+}
+
+.small {
+    font-size: small;
+}
+
+form {
+    background-color: #ecf6eb;
+    font-family: Arial, sans-serif;
+    width: 800px;
+    padding: 10px;
+    padding-right: 10px;
+}
+
+label {
+    width: 800px;
+    text-align: right;
+    padding-right: 10px;
+    margin-top: 10px;
+}
+
+input {
+    margin-top: 10px;
+}
+
+textarea {
+    position: static;
+    width: 100%;
+    padding: 12px;
+    margin: 4px;
+    box-sizing: border-box;
+}
